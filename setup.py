@@ -24,10 +24,10 @@ setup(
   description = 'Transparently use webpack with django',
   long_description=README,
   long_description_content_type="text/markdown",
-  author = 'Owais Lone',
-  author_email = 'hello@owaislone.org',
-  download_url = 'https://github.com/django-webpack/django-webpack-loader/tarball/{0}'.format(VERSION),
-  url = 'https://github.com/django-webpack/django-webpack-loader', # use the URL to the github repo
+  author = 'Jeongseop Lim',
+  author_email = 'jeongseop.lim@8percent.kr',
+  download_url = 'https://github.com/8percent/django-webpack-loader/tarball/{0}'.format(VERSION),
+  url = 'https://github.com/8percent/django-webpack-loader', # use the URL to the github repo
   keywords = ['django', 'webpack', 'assets'], # arbitrary keywords
   classifiers = [
     'Programming Language :: Python',
